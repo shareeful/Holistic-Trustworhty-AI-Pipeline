@@ -14,6 +14,7 @@ A lightweight, end-to-end pipeline demonstrating trustworthy AI practices using 
 ## 📂 Project Structure
 
 Holistic-Trustworthy-AI-Pipeline/
+
 │── synthhea_Patient_Dataset.ipynb # Synthea data exploration & preprocessing
 
 │── YOLO_Cell_Prediction.ipynb # Vision pipeline example (YOLO)
