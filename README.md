@@ -15,9 +15,11 @@ A lightweight, end-to-end pipeline demonstrating trustworthy AI practices using 
 
 Holistic-Trustworthy-AI-Pipeline/
 
-│── synthhea_Patient_Dataset.ipynb # Synthea data exploration & preprocessing
+│── Pilot (Contains Trained YOLO model for bead detection & Results)
 
 │── YOLO_Cell_Prediction.ipynb # Vision pipeline example (YOLO)
+
+│── synthhea_Patient_Dataset.ipynb # Synthea data exploration & preprocessing
 
 │── README.md
 
